@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stan Swirydczuk\\Desktop\\STUDIA\\finished_jumping_frog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F412305B-294D-4988-9986-1575F4F83234}|jumping_frog\\jumping_frog.vcxproj|C:\\Users\\Stan Swirydczuk\\Desktop\\STUDIA\\finished_jumping_frog\\jumping_frog\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F412305B-294D-4988-9986-1575F4F83234}|jumping_frog\\jumping_frog.vcxproj|solutionrelative:jumping_frog\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F412305B-294D-4988-9986-1575F4F83234}|jumping_frog\\jumping_frog.vcxproj|C:\\Users\\Stan Swirydczuk\\Desktop\\STUDIA\\finished_jumping_frog\\jumping_frog\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F412305B-294D-4988-9986-1575F4F83234}|jumping_frog\\jumping_frog.vcxproj|solutionrelative:jumping_frog\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Stan Swirydczuk\\Desktop\\STUDIA\\finished_jumping_frog\\jumping_frog\\main.cpp",
+              "RelativeDocumentMoniker": "jumping_frog\\main.cpp",
+              "ToolTip": "C:\\Users\\Stan Swirydczuk\\Desktop\\STUDIA\\finished_jumping_frog\\jumping_frog\\main.cpp",
+              "RelativeToolTip": "jumping_frog\\main.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T16:02:37.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.txt",
+              "DocumentMoniker": "C:\\Users\\Stan Swirydczuk\\Desktop\\STUDIA\\finished_jumping_frog\\jumping_frog\\config.txt",
+              "RelativeDocumentMoniker": "jumping_frog\\config.txt",
+              "ToolTip": "C:\\Users\\Stan Swirydczuk\\Desktop\\STUDIA\\finished_jumping_frog\\jumping_frog\\config.txt",
+              "RelativeToolTip": "jumping_frog\\config.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T12:03:13.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

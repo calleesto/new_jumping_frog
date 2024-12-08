@@ -1,0 +1,11 @@
+frog_color=4
+passive_car_color=6
+aggressive_car_color=3
+friendly_car_color=2
+number_of_bounces=2
+number_of_wraps=3
+frog_symbol=O
+car_symbol==
+border_symbol=#
+lane_separator=-
+max_time=60

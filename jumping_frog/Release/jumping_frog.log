@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(40,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(284,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(433,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(503,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(572,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(575,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(603,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(699,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(722,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(756,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\jumping_frog\main.cpp(766,32): warning C4305: '+=': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 52 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  jumping_frog.vcxproj -> C:\Users\Stan Swirydczuk\Desktop\STUDIA\jumping_frog\jumping_frog\Release\jumping_frog.exe
